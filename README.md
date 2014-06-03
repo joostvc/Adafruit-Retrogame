@@ -1,4 +1,4 @@
-Adafruit-Retrogame
+Adafruit-Retrogame (customized for P+ Retro console)
 ==================
 
 Raspberry Pi GPIO-to-USB utility for classic game emulators.
