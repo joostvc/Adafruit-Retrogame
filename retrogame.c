@@ -90,7 +90,7 @@ struct {
 	{ 17,      KEY_DOWN     },
 	{ 23,      KEY_ENTER    },
 	{  8,      KEY_BACKSPACE},
-    {  2,      KEY_ESC      }
+	{  2,      KEY_ESC      }
 };
 
 // power button on 7
